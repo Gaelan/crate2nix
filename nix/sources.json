@@ -5,10 +5,10 @@
         "homepage": "https://cachix.org",
         "owner": "cachix",
         "repo": "cachix",
-        "rev": "5053ac1d31f90f34a05ab36793f6c97cee17f689",
-        "sha256": "1jr27sp5wx5i4yv2hh6a98n43ra69kpa9ipzh0wzldz1mjk1dd23",
+        "rev": "00a93a07421a60085c904c4d5b475f5d18f4402e",
+        "sha256": "1i3xy7yijk1j96gcfbk2vclzjziwab04m0sww3im5ssjifqmjhcn",
         "type": "tarball",
-        "url": "https://github.com/cachix/cachix/archive/5053ac1d31f90f34a05ab36793f6c97cee17f689.tar.gz",
+        "url": "https://github.com/cachix/cachix/archive/00a93a07421a60085c904c4d5b475f5d18f4402e.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "cargo-release": {
@@ -17,10 +17,10 @@
         "homepage": "",
         "owner": "sunng87",
         "repo": "cargo-release",
-        "rev": "8557924d5ef1ddd1268bfeec29c558961874f015",
-        "sha256": "0qkxrg493z498yzwwfg7zax2qxc7acsj36wl69875psyknbrvg08",
+        "rev": "409aabf5238337cb1424540115d41950b5e78f0f",
+        "sha256": "0s1myc9lfa35ncqjpvbm5rfbyxjl21r4qpy4np49n7hqkx3kcnnp",
         "type": "tarball",
-        "url": "https://github.com/sunng87/cargo-release/archive/8557924d5ef1ddd1268bfeec29c558961874f015.tar.gz",
+        "url": "https://github.com/sunng87/cargo-release/archive/409aabf5238337cb1424540115d41950b5e78f0f.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "crate2nix": {
